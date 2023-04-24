@@ -1,20 +1,19 @@
 # Teste para candidatos à vaga de desenvolvedor Front-end
 
 ### Instruções
-1. Crie uma tela de login com validador de email e senha de no mínimo 8 caracteres contendo letra maiúscula e minúsculas, caracteres especiais e números.
-2. Criar uma tela principal, no estilo de portal de notícia, ela deve conter: Menu horizontal, rodapé, no mínimo 1 imagem, 1 vídeo e informar o email passado na tela de login. 
-3. Nós queremos avaliar o seu nível de conhecimento em design responsivo (Responsive Web Design) usando HTML5 e CSS3. Caso queira, utilize pré-processadores (Less, Stylus ou SASS).
-4. Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica.
+1. Crie uma tela de login com um validador de e-mail e senha. A senha deve ter pelo menos 8 caracteres, contendo letra maiúscula e minúscula, caracteres especiais e números.
+2. Em seguida, você precisa criar uma tela principal, no estilo de portal de notícia. Essa tela deve incluir um menu horizontal e um rodapé. Além disso, deve conter pelo menos uma imagem e um vídeo. A tela também deve informar o e-mail que foi inserido na tela de login.
+3. É importante que você desenvolva essa tela de forma responsiva, usando HTML5 e CSS3. Se quiser, pode usar pré-processadores como Less, Stylus ou SASS.
+4. A qualidade do seu código será avaliada, mesmo que ele não esteja completo. O mais importante é que o código seja semanticamente correto e bem estruturado.
 
 ### O que esperamos:
 1. HTML5
 2. CSS3
 3. PHP
-4. Criar um passo a passo de como rodar sua aplicação.
-
+4. Um passo a passo de como rodar sua aplicação.
 
 ### Diferencial
-1. A página ser responsiva
+1. Responsividade
 2. Bootstrap
 
 ### Atenção
