@@ -1,27 +1,16 @@
-# Teste para candidatos à vaga de desenvolvedor Front-end
+# Teste Front-end
 
-### Instruções
-1. Crie uma tela de login com um validador de e-mail e senha. A senha deve ter pelo menos 8 caracteres, contendo letra maiúscula e minúscula, caracteres especiais e números.
-2. Em seguida, você precisa criar uma tela principal, no estilo de portal de notícia. Essa tela deve incluir um menu horizontal e um rodapé. Além disso, deve conter pelo menos uma imagem e um vídeo. A tela também deve informar o e-mail que foi inserido na tela de login.
-3. É importante que você desenvolva essa tela de forma responsiva, usando HTML5 e CSS3. Se quiser, pode usar pré-processadores como Less, Stylus ou SASS.
-4. A qualidade do seu código será avaliada, mesmo que ele não esteja completo. O mais importante é que o código seja semanticamente correto e bem estruturado.
+Não é nescessário realizar a instalação de nenhum componente para execução do projeto
+Utilizando o VSCode, com a extensão Live Server, o projeto é executado também
 
-### O que esperamos:
-1. HTML5
-2. CSS3
-3. PHP
-4. Um passo a passo de como rodar sua aplicação.
+- A página inicial redirecionará automaticamente para a página de login com um !Alert
 
-### Diferencial
-1. Responsividade
-2. Bootstrap
+- Na página de login, clicar em "Cadastre-se"
 
-### Atenção
+- Preencher o cadastro informando nome, e-mail e senha
 
-* É permitido usar qualquer editor de código e consultar a internet.
+- Ao repousar o cursor sobre o campo de senha, será exibido o padrão necessário para que a senha seja válida
 
-Ao terminar o teste, solicite um pull request. 
+- Após efetuar o cadastro, será redirecionado à página de login
 
-Em caso de dúvidas, envie e-mail para mp@scotconsultoria.com.br
-
-**Boa sorte!**
+- Após efetuar o login, a tela inicial (home screen/index) será exibida
